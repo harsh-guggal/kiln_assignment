@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "676738207993",
+    "project_id": "guggal-social",
+    "storage_bucket": "guggal-social.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676738207993:android:abc6db523c035b4b301228",
+        "android_client_info": {
+          "package_name": "com.guggal.guggal_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676738207993-j6ejek7nvf4asaiihkkomi86r84n3igh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.guggal.guggal_social",
+            "certificate_hash": "bc828fc50649b215d9cf6344a1d8bd3d5195f944"
+          }
+        },
+        {
+          "client_id": "676738207993-d6iun1h1uia5usojeo5a7raf9i68teo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxA7ptoxEMjPW_tQ3xMTsGtI_jgiHZCro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676738207993-d6iun1h1uia5usojeo5a7raf9i68teo1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
