@@ -1,4 +1,4 @@
-# guggal_social
+# harsh assignment
 
 A new Flutter project.
 
